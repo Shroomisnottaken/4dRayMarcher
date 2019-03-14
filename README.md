@@ -1,6 +1,7 @@
 # 4dRayTracer
 
 If you have any questions comment on Youtube: 
+Create Libraries and Include as directories and set them in vc++ linker!
 
 # Copy to Libraries:
 

@@ -1,6 +1,5 @@
 # 4dRayMarcher
 
-If you have any questions comment on Youtube: https://youtu.be/sfY7NStZ3nU 
 Create Libraries and Include as directories and set them in vc++ linker!
 
 # Copy to Libraries:
